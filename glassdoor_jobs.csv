@@ -1,30 +1,101 @@
 Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
-Senior Data Scientist,$87K - $173K (Employer provided),"Advanced analytics knowledge and application in the field of Statistics or Mathematical programming. This Senior Data Scientist works out of our Alameda,…&hellip;
-Skills: Statistics, MATLAB, Software deployment, Spark, R",3.8,Abbott Laboratories,"Alameda, CA",-1,-1,-1,-1,-1,-1,-1,-1
-Actuarial Data Scientist III,$149K - $239K (Employer provided),A bachelor's degree in a STEM field or equivalent experience. Analyze data and build predictive models using tools such as Python and R to support product…&hellip;,3.9,Expedia Group,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
-Data Engineer - Rider,$90.00 - $100.00 Per Hour (Employer provided),"Nice to have experience - working directly with cross-functional teams (data analytics, data science, engineering) to align data engineering solutions with…&hellip;
-Skills: Performance tuning, Spark, SQL, Scalability, Python",4.1,"Ursus, Inc.","San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
-Healthcare Clinical Documentation Integrity (CDI) Consultant (Part-Time),$33.00 - $64.00 Per Hour (Employer provided),"Our hiring practices provide equal opportunity for employment without regard to race, religion, color, sex, gender, national origin, age, United States military…&hellip;
-Skills: Microsoft Excel, Microsoft Outlook, Medicare, Writing skills, Public speaking",3.8,"Berkeley Research Group, LLC","Emeryville, CA",-1,-1,-1,-1,-1,-1,-1,-1
-Data Scientist,$170K - $213K (Employer provided),"Effective communicator — able to tell the story behind the model to both highly technical and non-technical audiences. Base salary range for this role varies.&hellip;
-Skills: Pricing, Software deployment, Spark, SQL, Experimental design",3.3,Opendoor,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
-Senior Software Engineer,$134K - $242K (Employer provided),"Use the latest cloud technologies to own, design, implement, and test scalable distributed data systems in the cloud. This role is categorized as hybrid.&hellip;
-Skills: Azure, SQL, Continuous improvement, Requirements analysis, Mentoring",3.6,General Motors,"Mountain View, CA",-1,-1,-1,-1,-1,-1,-1,-1
-Sr Software Engineer,$145K - $204K (Employer provided),"Bachelor’s degree or better in Computer Science or a related technical field or equivalent job experience. Innovation: We develop and implement groundbreaking…&hellip;
-Skills: Computer science, Gradle, Android, Databases, Mentoring",-1,Disney Entertainment and ESPN Product & Technology,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
-Research Data Scientist,$69K - $100K (Employer provided),"BA/BS with a major in a related field of quantitative science (e.g. data science, statistics, public health, epidemiology) and one+ years experience in project…&hellip;
-Skills: Clinical research, Biostatistics, R, SQL, Database design",3.9,University of California San Francisco,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
-Data Scientist,$129K - $204K (Glassdoor est.),"We are looking for a mixture between a statistician, scientist, machine learning expert and engineer: someone who has passion for building and improving…&hellip;
-Skills: Data visualization",5.0,BICP,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
 Principal Machine Learning Engineer,$198K - $374K (Employer provided),"Provide technical leadership and mentorship, guiding teams on platform design, architecture decisions, and emerging technologies.&hellip;
 Skills: TensorFlow, Performance tuning, Computer science, Azure, AWS",3.6,General Motors,"Sunnyvale, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Senior Software Engineer,$134K - $242K (Employer provided),"Use the latest cloud technologies to own, design, implement, and test scalable distributed data systems in the cloud.&hellip;
+Skills: Azure, SQL, Continuous improvement, Requirements analysis, Mentoring",3.6,General Motors,"Mountain View, CA",-1,-1,-1,-1,-1,-1,-1,-1
 Staff ML Engineer - Offboard Embodied AI,$180K - $280K (Employer provided),"Collaborate with cross-functional teams to integrate & built distillation recipes of Robotics foundation models for onboard driving models .&hellip;
 Skills: TensorFlow, Software deployment, Spark, Research, Mentoring",3.6,General Motors,"Mountain View, CA",-1,-1,-1,-1,-1,-1,-1,-1
-Lead Machine Learning Engineer - ESPN+ Personalization,$172K - $246K (Employer provided),"Excellent cross-functional communication; experience mentoring engineers and driving engineering standards. You will set technical standards, establish MLOps…&hellip;
-Skills: Cost management, TensorFlow, Cloud infrastructure, Go, Kubernetes",-1,Disney Entertainment and ESPN Product & Technology,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist, Underwriting",$125K - $198K (Glassdoor est.),"You’ll own the full data-science lifecycle, from research to deployment, to power our underwriting engine. Develop valid and predictive machine learning models.&hellip;
+Skills: Underwriting, System design, Research, Forecasting, Recruiting",4.3,Parafin,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist,$170K - $213K (Employer provided),"Effective communicator — able to tell the story behind the model to both highly technical and non-technical audiences. Base salary range for this role varies.&hellip;
+Skills: Pricing, Software deployment, Spark, SQL, Experimental design",3.3,Opendoor,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Senior Data Scientist,-1,"Communicate insights clearly to technical and non-technical partners, informing both research direction and infrastructure improvements.&hellip;
+Skills: Big data, Spark, Distributed systems, Experimental design, AI",-1,LMArena,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist I - Shiny,$69K - $124K (Employer provided),"Perform analysis using data science techniques on structured and unstructured data sets, and develop algorithms for targeted business needs.&hellip;
+Skills: Data mining, SAS, R, SQL, Experimental design",3.8,Health Net,California,-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist,$129K - $204K (Glassdoor est.),"We are looking for a mixture between a statistician, scientist, machine learning expert and engineer: someone who has passion for building and improving…&hellip;
+Skills: Data visualization",5.0,BICP,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
 "Senior Data Scientist, Analytics",$196K - $221K (Employer provided),"What you'll be doing Partner with teams throughout Discord through the full lifecycle of data science analytics from ideation and exploratory analysis, to…&hellip;
 Skills: Tableau, SQL, Analysis skills, Experimental design, Scalability",4.0,Discord,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist,$225K - $275K (Employer provided),"Partner closely with growth product, engineering, design, growth, and lifecycle marketing teams. We have large datasets and are seeking individuals with…&hellip;
+Skills: Email marketing, Data mining, SQL, Analysis skills, Experimental design",3.5,"Grammarly, Inc.","San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Azure Databricks Engineer,-1,"Microsoft Certified: Azure Data Engineer Associate (DP-203) or Databricks Certified Data Engineer or equivalent certification or experience.&hellip;
+Skills: Computer science, Spark, SQL, Scala, Scalability",4.5,Highlight Technologies,United States,-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist,$129K - $196K (Glassdoor est.),"BA/BS in Applied Math, Economics, Computer Science, Math, or related field. Experience with programming languages and other tools to manipulate data and draw…&hellip;
+Skills: Statistics, Google Workspace, Computer science, Data mining, Cataloging",4.3,Penrose Studios,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist, Decisions - Loyalty & Partnerships",$128K - $160K (Employer provided),"You will identify and scope opportunities, shape priorities, recommend technical solutions, design experiments, and measure impact. Child care and pet benefits.&hellip;
+Skills: MATLAB, R, SQL, Analysis skills, Algorithm design",3.8,Lyft,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist, Product Analytics",$140K - $180K (Employer provided),"4+ years of experience in data analytics, data science, or a related field. This means we're designing scalable systems that monitor billions of domains, social…&hellip;
+Skills: Statistics, R, SQL, Statistical analysis, Forecasting",2.9,Doppel,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
 Data Scientist,$140K - $200K (Employer provided),"Own data & evaluation across multiple customer projects - design metrics, run experiments, and build dashboards to track model and workflow performance.&hellip;
 Skills: Research, SQL, Machine learning, Experimental design, Scalability",-1,FurtherAI,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist, Product",$255K - $405K (Employer provided),"Define and interpret A/B tests that help answer critical questions about the impact of model and UX changes to our product.&hellip;
+Skills: Qualitative research, Qualitative analysis, SQL, Natural language processing, UX",4.4,OpenAI,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Machine Learning Data Scientist - Health Incubation,$181K - $318K (Employer provided),"Experience with failure analysis and root cause analysis techniques such as hypothesis testing and experiment design.&hellip;
+Skills: Signal processing, Big data, Spark, Physiology knowledge, Analysis skills",4.1,Apple,"Cupertino, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist, Employee Productivity & Support",$128K - $233K (Employer provided),"Masters degree in a quantitative field (e.g., data science, statistics, applied mathematics, operations research, economics, the natural sciences) or equivalent…&hellip;
+Skills: Operations research, Tableau, SQL, Analysis skills, Sentiment analytics",4.1,Apple,"Sacramento, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist,$124K - $155K (Employer provided),"Develop, implement, and maintain analytics systems, tools, and frameworks that enable efficient analysis for customers.&hellip;
+Skills: Data mining, Business intelligence, Spark, Google Cloud Platform, SQL",3.4,LiveRamp,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist - User Risk Measurement,$255K - $325K (Employer provided),"Partner across Safety Systems, Data Science, Integrity, Product, and Policy: ensure one coherent analytics entry point and consistent standards.&hellip;
+Skills: Statistics, Survival analysis, SQL, Python",4.4,OpenAI,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
 Data Scientist,$92K - $139K (Employer provided),"The successful candidate will bring extensive methodological experience, technical skill with analysis tools and software, and content knowledge in early…&hellip;
 Skills: Statistics, Writing skills, Databases, Analysis skills, Supervising experience",4.3,Stanford University,"Stanford, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist II, Growth Marketing",$113K - $233K (Employer provided),"Masters degree in a quantitative field such as mathematics, statistics, computer science or engineering. Translate complex analytical findings into clear,…&hellip;
+Skills: Statistics, Email marketing, R, Process improvement, Apache Hive",3.9,Pinterest,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist/Analyst - San Francisco, CA, USA",$48K - $168K (Employer provided),"Bachelor’s or master’s degree in data science, Statistics, Computer Science, or a related field. This position is available for independent contractors.&hellip;
+Skills: Power BI, Data modeling, Azure, Sales analysis, Google Cloud Platform",4.2,Photon,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Research Data Scientist,$69K - $100K (Employer provided),"BA/BS with a major in a related field of quantitative science (e.g. data science, statistics, public health, epidemiology) and one+ years experience in project…&hellip;
+Skills: Clinical research, Biostatistics, R, SQL, Database design",3.9,University of California San Francisco,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Staff Data Scientist,$164K - $247K (Employer provided),"Lead technical and non-technical team members with processes and technical expertise for executing experiments, answering open ended business questions with…&hellip;
+Skills: R, SQL, Customer segmentation, Team management, Mentoring",3.5,Webflow,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist (Pre-Approvals & Sales Data),$93K - $148K (Glassdoor est.),"You will own the data science foundation that transforms noisy transactional data into actionable signals for credit decisioning.&hellip;
+Skills: Statistics, Underwriting, SQL, AI, Communication skills",2.7,Slope,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist,$127K - $187K (Glassdoor est.),"Data science, predictive models, and statistics are second nature. Some understanding of credit and/or risk underwriting.&hellip;
+Skills: Statistics, Underwriting, Math, Predictive analytics, Data science",3.8,Finrise,"Burlingame, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist- TikTok Ads, Ads Interfaces",$176K - $329K (Employer provided),"Sustained track record of driving business value and improving product with data insights, especially in advertising, growth, marketing or relevant domains.&hellip;
+Skills: Statistics, Data mining, R, SQL, Mentoring",3.2,TikTok,"San Jose, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist, Product Analytics",$173K - $242K (Employer provided),"Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that…&hellip;
+Skills: Statistics, Computer science, Data mining, R, SQL",3.7,Meta,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist- TikTok Ads, Measurement - Identity & Attribution",$176K - $329K (Employer provided),"Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that…&hellip;
+Skills: Statistics, Data mining, R, SQL, Team management",3.2,TikTok,"San Jose, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Principal Machine Learning Engineer,$198K - $374K (Employer provided),"Provide technical leadership and mentorship, guiding teams on platform design, architecture decisions, and emerging technologies.&hellip;
+Skills: TensorFlow, Performance tuning, Computer science, Azure, AWS",3.6,General Motors,"Sunnyvale, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Senior Software Engineer,$134K - $242K (Employer provided),"Use the latest cloud technologies to own, design, implement, and test scalable distributed data systems in the cloud.&hellip;
+Skills: Azure, SQL, Continuous improvement, Requirements analysis, Mentoring",3.6,General Motors,"Mountain View, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Staff ML Engineer - Offboard Embodied AI,$180K - $280K (Employer provided),"Collaborate with cross-functional teams to integrate & built distillation recipes of Robotics foundation models for onboard driving models .&hellip;
+Skills: TensorFlow, Software deployment, Spark, Research, Mentoring",3.6,General Motors,"Mountain View, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist, Underwriting",$125K - $198K (Glassdoor est.),"You’ll own the full data-science lifecycle, from research to deployment, to power our underwriting engine. Develop valid and predictive machine learning models.&hellip;
+Skills: Underwriting, System design, Research, Forecasting, Recruiting",4.3,Parafin,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist,$170K - $213K (Employer provided),"Effective communicator — able to tell the story behind the model to both highly technical and non-technical audiences. Base salary range for this role varies.&hellip;
+Skills: Pricing, Software deployment, Spark, SQL, Experimental design",3.3,Opendoor,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Senior Data Scientist,-1,"Communicate insights clearly to technical and non-technical partners, informing both research direction and infrastructure improvements.&hellip;
+Skills: Big data, Spark, Distributed systems, Experimental design, AI",-1,LMArena,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist I - Shiny,$69K - $124K (Employer provided),"Perform analysis using data science techniques on structured and unstructured data sets, and develop algorithms for targeted business needs.&hellip;
+Skills: Data mining, SAS, R, SQL, Experimental design",3.8,Health Net,California,-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist,$129K - $204K (Glassdoor est.),"We are looking for a mixture between a statistician, scientist, machine learning expert and engineer: someone who has passion for building and improving…&hellip;
+Skills: Data visualization",5.0,BICP,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Senior Data Scientist, Analytics",$196K - $221K (Employer provided),"What you'll be doing Partner with teams throughout Discord through the full lifecycle of data science analytics from ideation and exploratory analysis, to…&hellip;
+Skills: Tableau, SQL, Analysis skills, Experimental design, Scalability",4.0,Discord,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist,$225K - $275K (Employer provided),"Partner closely with growth product, engineering, design, growth, and lifecycle marketing teams. We have large datasets and are seeking individuals with…&hellip;
+Skills: Email marketing, Data mining, SQL, Analysis skills, Experimental design",3.5,"Grammarly, Inc.","San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Azure Databricks Engineer,-1,"Microsoft Certified: Azure Data Engineer Associate (DP-203) or Databricks Certified Data Engineer or equivalent certification or experience.&hellip;
+Skills: Computer science, Spark, SQL, Scala, Scalability",4.5,Highlight Technologies,United States,-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist,$129K - $196K (Glassdoor est.),"BA/BS in Applied Math, Economics, Computer Science, Math, or related field. Experience with programming languages and other tools to manipulate data and draw…&hellip;
+Skills: Statistics, Google Workspace, Computer science, Data mining, Cataloging",4.3,Penrose Studios,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist, Decisions - Loyalty & Partnerships",$128K - $160K (Employer provided),"You will identify and scope opportunities, shape priorities, recommend technical solutions, design experiments, and measure impact. Child care and pet benefits.&hellip;
+Skills: MATLAB, R, SQL, Analysis skills, Algorithm design",3.8,Lyft,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist, Product Analytics",$140K - $180K (Employer provided),"4+ years of experience in data analytics, data science, or a related field. This means we're designing scalable systems that monitor billions of domains, social…&hellip;
+Skills: Statistics, R, SQL, Statistical analysis, Forecasting",2.9,Doppel,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist,$140K - $200K (Employer provided),"Own data & evaluation across multiple customer projects - design metrics, run experiments, and build dashboards to track model and workflow performance.&hellip;
+Skills: Research, SQL, Machine learning, Experimental design, Scalability",-1,FurtherAI,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist, Product",$255K - $405K (Employer provided),"Define and interpret A/B tests that help answer critical questions about the impact of model and UX changes to our product.&hellip;
+Skills: Qualitative research, Qualitative analysis, SQL, Natural language processing, UX",4.4,OpenAI,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Machine Learning Data Scientist - Health Incubation,$181K - $318K (Employer provided),"Experience with failure analysis and root cause analysis techniques such as hypothesis testing and experiment design.&hellip;
+Skills: Signal processing, Big data, Spark, Physiology knowledge, Analysis skills",4.1,Apple,"Cupertino, CA",-1,-1,-1,-1,-1,-1,-1,-1
+"Data Scientist, Employee Productivity & Support",$128K - $233K (Employer provided),"Masters degree in a quantitative field (e.g., data science, statistics, applied mathematics, operations research, economics, the natural sciences) or equivalent…&hellip;
+Skills: Operations research, Tableau, SQL, Analysis skills, Sentiment analytics",4.1,Apple,"Sacramento, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist,$124K - $155K (Employer provided),"Develop, implement, and maintain analytics systems, tools, and frameworks that enable efficient analysis for customers.&hellip;
+Skills: Data mining, Business intelligence, Spark, Google Cloud Platform, SQL",3.4,LiveRamp,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1
+Data Scientist - User Risk Measurement,$255K - $325K (Employer provided),"Partner across Safety Systems, Data Science, Integrity, Product, and Policy: ensure one coherent analytics entry point and consistent standards.&hellip;
+Skills: Statistics, Survival analysis, SQL, Python",4.4,OpenAI,"San Francisco, CA",-1,-1,-1,-1,-1,-1,-1,-1

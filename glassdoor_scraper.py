@@ -1,3 +1,7 @@
+# ************************************
+# base source: https://mersakarya.medium.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+# ************************************
+
 
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
@@ -180,7 +184,12 @@ def get_jobs(keyword, num_jobs, verbose,path):
 
         #Clicking on the "next page" button
         try:
-            driver.find_element(By.XPATH,'.//li[@class="next"]//a').click()
+            # driver.find_element(By.XPATH,'.//li[@class="next"]//a').click()
+            scrolling_element= driver.find_element(By.XPATH,"//*[@id='MainCol']")
+            driver.execute_script('arguments[0].scrollTop = arguments[0].scrollHeight', scrolling_element)
+            time.sleep(3)
+            driver.find_element(By.XPATH,'//*[@id="left-column"]/div[2]/div/button').click()
+            time.sleep(3)
         except NoSuchElementException:
             print("Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(num_jobs, len(jobs)))
             pass
