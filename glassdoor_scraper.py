@@ -98,7 +98,7 @@ def get_jobs(keyword, num_jobs, verbose,path):
             #clicking on this:
             #<div class="tab" data-tab-type="overview"><span>Company</span></div>
             try:
-                driver.find_element(By.XPATH,'.//div[@class="tab" and @data-tab-type="overview"]').click()
+                job_button.find_element(By.XPATH,'//a[@id="279"]').click()
 
                 try:
                     #<div class="infoEntity">
@@ -144,7 +144,7 @@ def get_jobs(keyword, num_jobs, verbose,path):
                 except NoSuchElementException:
                     competitors = -1
 
-            except NoSuchElementException:  #Rarely, some job postings do not have the "Company" tab.
+            except NoSuchElementException as e:  #Rarely, some job postings do not have the "Company" tab.
                 headquarters = -1
                 size = -1
                 founded = -1
@@ -153,6 +153,7 @@ def get_jobs(keyword, num_jobs, verbose,path):
                 sector = -1
                 revenue = -1
                 competitors = -1
+                print("Exceprtion", e)
 
                 
             if verbose:
